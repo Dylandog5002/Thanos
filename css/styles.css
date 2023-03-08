@@ -161,7 +161,7 @@ footer{
 	form {
 		background-color: purple;
 		padding: 1em;
-		text-align: right;
+		text-align: center;
 		
 	}
 	
@@ -203,4 +203,8 @@ font-family: 'Crimson Pro', serif;
 
 #social img{
 	align-content: center;
+}
+
+.frame{
+
 }
