@@ -184,13 +184,13 @@ footer{
 		padding: 1em;
 		text-align: center;
 		relative-position:up;
-		color:black
+		color:black;
 		
 	}
 	
 	/* Style rule for paragraph within form element */
 	form p {
-		color: purple;
+		color: black;
 	}
 
 form ledgend{
