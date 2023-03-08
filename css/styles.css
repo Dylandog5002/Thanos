@@ -195,15 +195,18 @@ footer{
 
 form ledgend{
 	padding-right: 8em;
+	color:black;
 }
 
 form ul{
 	padding-left: 5em;
+	color:black;
 }
 
 form li{
 	padding-right: 16em;
 	list-style-type: none;
+	color:black;
 }
 
 form div{
