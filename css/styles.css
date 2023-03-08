@@ -180,10 +180,11 @@ footer{
 
 /*Style rule for form element */
 	form {
-		background-color:black;
+		background-color:white;
 		padding: 1em;
 		text-align: center;
-		relative-position:up;		
+		relative-position:up;
+		color:black
 		
 	}
 	
