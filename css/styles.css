@@ -94,8 +94,8 @@ main{
 }
 
 #container img{
-	float: left;
-	margin-right: 2%;
+	float: center;
+	margin-right: 10%;
 	border: 20px double purple;
 	border-radius: 10px;
 	text-align: right;
