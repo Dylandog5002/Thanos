@@ -17,6 +17,7 @@ Google fonts
 }
 body{
 	background-color: purple;
+	color:white;
 }
 
 header h1{
@@ -90,7 +91,7 @@ main{
 	font-size: 1.8em;
 	font-family: 'Crimson Pro', serif;
     background-color: purple;
-    text-decoration-color: white;
+    color:white;
 	
 }
 
