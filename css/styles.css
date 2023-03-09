@@ -181,7 +181,7 @@ footer{
 /*Style rule for form element */
 	form {
 		background-color:white;
-		padding: 1em;
+		padding: 3em;
 		text-align: center;
 		relative-position:up;
 		color:black;
@@ -211,6 +211,7 @@ form li{
 
 form div{
 	padding-right: 4em;
+	color:black;
 }
 
 .img{
@@ -232,5 +233,7 @@ font-family: 'Crimson Pro', serif;
 }
 
 .frame{
+color:black;
+box-sizing: border-box;
 
 }
