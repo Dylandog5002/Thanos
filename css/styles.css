@@ -249,7 +249,7 @@ box-sizing: border-box;
 	background: #F7F7F7;
 }
 .form-style-6 h1{
-	background: #43D1AF;
+	background: mediumpurple;
 	padding: 20px 0;
 	font-size: 140%;
 	font-weight: 300;
@@ -307,7 +307,7 @@ box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	width: 100%;
 	padding: 3%;
-	background: #43D1AF;
+	background: mediumpurple;
 	border-bottom: 2px solid #30C29E;
 	border-top-style: none;
 	border-right-style: none;
